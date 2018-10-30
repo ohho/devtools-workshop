@@ -1,5 +1,5 @@
-## Tips and Tools for using Devtools
-A talkthrough workshop by [Jackie Ho](http://ohho-design.com/).
+## Tips and Tricks for using Devtools
+How to master Devtools for debugging your visual styles.
 
 ### How to open DevTools
 - Click into objects or view overall page
@@ -25,5 +25,3 @@ A talkthrough workshop by [Jackie Ho](http://ohho-design.com/).
 - Custom pixel ratio (interesting for testing out breakpoints / media queries)
 - Jump to the media query
 - Network throttling (+ offline)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
