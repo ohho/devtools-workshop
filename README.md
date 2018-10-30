@@ -1,5 +1,5 @@
 ## Tips and Tricks for using Devtools
-Talking points for a workshop on how to master Devtools for debugging your visual styles. (Not meant to be a comprehensive guide.) Reach out to (Jackie Ho)[http://ohho-design.com/] if you want to learn more!
+Talking points for a workshop on how to master Devtools for debugging your visual styles. (Not meant to be a comprehensive guide.) Reach out to [Jackie Ho](http://ohho-design.com/) if you want to learn more!
 
 ### Basics / How to open DevTools
 - Click into objects or view overall page
@@ -41,7 +41,8 @@ Talking points for a workshop on how to master Devtools for debugging your visua
 - Custom pixel ratio (interesting for testing out breakpoints / media queries)
 - Jump to the media query
 - Network throttling (which you can also test in the 'Network' tab to get the load time + the 'Performance' tab)
-- Screencast chrome and devtools to your Android device (Read more)[https://developers.google.com/web/tools/chrome-devtools/remote-debugging/]
+- Screencast chrome and devtools to your Android device
+  - [Read more](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/)
   - Use Safari for iOS
 
 ### Editing your files directly from Devtools
