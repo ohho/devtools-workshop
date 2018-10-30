@@ -25,3 +25,5 @@ How to master Devtools for debugging your visual styles.
 - Custom pixel ratio (interesting for testing out breakpoints / media queries)
 - Jump to the media query
 - Network throttling (+ offline)
+
+### Editing your files directly from Devtools
