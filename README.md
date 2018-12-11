@@ -14,6 +14,7 @@ Talking points for a workshop on how to master Devtools for debugging your visua
   - !importants
   - useful for when you have many stylesheets / are using a front-end framework
 - Change existing properties (+ fun with colors)
+  - Contrast ratio
 - Add new styes
 - Apply new classes (.cls)
 - Differences between editing existing classes versus "element.style"
@@ -48,3 +49,16 @@ Talking points for a workshop on how to master Devtools for debugging your visua
 ### Editing your files directly from Devtools
 - For static webpages or some web apps (not React), you can drag your entire folder into the 'Source' tab and then edit the styles directly from devtools and it'll save automatically.
 - To turn it off, go to 'Settings' and then 'Workspace' and remove it there.
+
+### Exercise
+Fork this [sample project](https://github.com/ohho/AdminBSBMaterialDesign).
+
+1. Let's change the navigation bar's color. Any color! Make it POP!
+2. Great aaaactually, I want it to be the same color as the first tile.
+3. The fun hover effect on the tile isn't fun enough! Can we make it more apparent?
+4. Let's fix the contrast ratio on the text.
+5. Okay yeah, let's fix that icon placement. Can we make it in the middle of a square?
+
+### Additional workshop ideas
+- Github and command line basics
+- How to be a responsible designer in a codebase (running tests, etc.)
