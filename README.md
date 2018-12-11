@@ -50,7 +50,7 @@ Talking points for a workshop on how to master Devtools for debugging your visua
 - For static webpages or some web apps (not React), you can drag your entire folder into the 'Source' tab and then edit the styles directly from devtools and it'll save automatically.
 - To turn it off, go to 'Settings' and then 'Workspace' and remove it there.
 
---
+---
 
 ### Exercise
 Fork this [sample project](https://github.com/ohho/AdminBSBMaterialDesign).
@@ -61,7 +61,7 @@ Fork this [sample project](https://github.com/ohho/AdminBSBMaterialDesign).
 4. Let's fix the contrast ratio on the text.
 5. OKAY I can't stand it anymore -- time to fix that icon placement. Can we make it in the middle of a square?
 
---
+---
 
 ### Additional workshop ideas
 - Github and command line basics
